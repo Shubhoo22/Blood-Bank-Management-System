@@ -1,23 +1,29 @@
-<h1 align="center">Inssen</h1>
-<h4 align="center">A blood donation app for saving lives</h4>
+# 🩸 Blood Bank Management System
 
-<br>
+A **Blood Bank Management System** built with Android to help manage blood donations, requests, and donors efficiently.  
+This project provides an easy-to-use interface for users to register as donors, request blood, and manage information related to blood donation.  
 
-<p>Inssen is a open source blood Donation app available for Android smartphones. Inssen searches, notifies and connect thousands of blood donors in three simple steps. Inssen donation app ensures hassle free blood donation and privacy of a blood donor. A blood donor can select any specific date and location to donate blood and find a suitable person who needs blood. Connecting blood donors and needy reduces time which increases the possibility of saving lives and also eliminates the shortage of blood.</p>
+---
 
-## Todo
-* Add logic for the app
-* Create a web api
-* Add social media auth
+## 🚀 Features
+- 🔐 **User Authentication** – Secure login and registration for donors and recipients.  
+- 🧑‍🤝‍🧑 **Donor Registration** – Users can register with their personal and blood group details.  
+- 🩸 **Blood Requests** – Patients can request blood of specific groups.  
+- 📍 **Search Functionality** – Search donors based on blood group and location.  
+- 📊 **Admin Dashboard** – Manage donor and recipient information.  
+- 📱 **Mobile Friendly UI** – Built for Android with a simple and intuitive interface.  
 
-## Tools used:
-* Android studio (IDE)
-* Java (logic)
-* XML (design)
-* Paint.Net (Image editting)
+---
 
-## Screenshots:
-<img src="https://user-images.githubusercontent.com/24621701/54299994-51335e80-45bc-11e9-8fc8-2022e2ed218c.jpg" width="200" /> &nbsp;&nbsp;  <img src="https://user-images.githubusercontent.com/24621701/54299995-51335e80-45bc-11e9-969b-b14c492cfe3d.jpg" width="200" /> &nbsp;&nbsp; <img src="https://user-images.githubusercontent.com/24621701/54299996-51335e80-45bc-11e9-80bb-6979f1668364.jpg" width="200" /> &nbsp;&nbsp; <img src="https://user-images.githubusercontent.com/24621701/54299998-51cbf500-45bc-11e9-9244-6c602b6fe4ff.jpg" width="200" /> &nbsp;&nbsp; <br><br> <img src="https://user-images.githubusercontent.com/24621701/54300000-51cbf500-45bc-11e9-9861-9bf25e03e827.jpg" width="200" /> &nbsp;&nbsp; <img src="https://user-images.githubusercontent.com/24621701/54300002-51cbf500-45bc-11e9-990d-177ebc69c924.jpg" width="200" /> &nbsp;&nbsp; <img src="https://user-images.githubusercontent.com/24621701/54300003-52648b80-45bc-11e9-8fe9-ecc964ce82a0.jpg" width="200" /> &nbsp;&nbsp; 
+## 🛠️ Tech Stack
+- **Frontend:** Android (Java/Kotlin, XML layouts)  
+- **Backend:** Firebase / SQLite (depending on setup)  
+- **Tools:** Android Studio, Gradle  
 
+---
 
-## License: MIT license
+## ⚙️ Installation & Setup
+
+1. **Clone this repository**:
+   ```bash
+   git clone git@github.com:Shubhoo22/Blood-Bank-Management-System.git
